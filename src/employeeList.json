@@ -1,0 +1,93 @@
+[
+    { 
+        "key": "t1",
+        "data":{
+            "name": "Evan",
+            "info": "Class Instructor",
+            "contact": {
+                "office": "407-555-5555",
+                "mobile": "407-555-5555",
+                "sms": "407-555-5555",
+                "email": "eklemen@data.test"
+            }
+        }
+    },
+    {
+        "key": "t2",
+        "data":{
+            "name": "Zack",
+            "info": "Teaching Assistant",
+            "contact": {
+                "office": "407-555-5556",
+                "mobile": "407-555-5556",
+                "sms": "407-555-5556",
+                "email": "zrobin@data.test"
+            }
+        }
+    },
+    {
+        "key": "t3",
+        "data":{
+            "name": "Jennifer",
+            "info": "Teaching Assistant",
+            "contact": {
+                "office": "407-555-5557",
+                "mobile": "407-555-5557",
+                "sms": "407-555-5557",
+                "email": "jross@data.test"
+            }
+        }
+    },
+    {
+        "key": "t4",
+        "data":{
+            "name": "Brandon",
+            "info": "Coding Bootcamp Student",
+            "contact": {
+                "office": "407-555-5558",
+                "mobile": "407-555-5558",
+                "sms": "407-555-5558",
+                "email": "bhall@data.test"
+            }
+        }
+    },
+    {
+        "key": "t5",
+        "data":{
+            "name": "Jodi",
+            "info": "Student Success Manager",
+            "contact": {
+                "office": "407-555-5559",
+                "mobile": "407-555-5559",
+                "sms": "407-555-5559",
+                "email": "jdiehl@data.test"
+            }
+        }
+    },
+    {
+        "key": "t6",
+        "data":{
+            "name": "Unknown",
+            "info": "???",
+            "contact": {
+                "office": "???",
+                "mobile": "???",
+                "sms": "???",
+                "email": "???"
+            }
+        }
+    },
+     {  
+        "key": "t7",
+        "data":{
+            "name": "Jeramey",
+            "info": "Software Developer",
+            "contact": {
+                "office": "407-555-5550",
+                "mobile": "407-555-5550",
+                "sms": "407-555-5550",
+                "email": "jmoody@data.test"
+            }
+        }
+    }
+]
